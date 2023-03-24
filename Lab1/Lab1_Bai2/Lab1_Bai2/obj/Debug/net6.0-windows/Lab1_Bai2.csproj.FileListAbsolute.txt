@@ -1,0 +1,17 @@
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.csproj.AssemblyReference.cache
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.Form1.resources
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.csproj.GenerateResource.cache
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.AssemblyInfoInputs.cache
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.AssemblyInfo.cs
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.csproj.CoreCompileInputs.cache
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\bin\Debug\net6.0-windows\Lab1_Bai2.exe
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\bin\Debug\net6.0-windows\Lab1_Bai2.deps.json
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\bin\Debug\net6.0-windows\Lab1_Bai2.runtimeconfig.json
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\bin\Debug\net6.0-windows\Lab1_Bai2.dll
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\bin\Debug\net6.0-windows\Lab1_Bai2.pdb
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.dll
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\refint\Lab1_Bai2.dll
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.pdb
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\Lab1_Bai2.genruntimeconfig.cache
+E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1_Bai2\Lab1_Bai2\obj\Debug\net6.0-windows\ref\Lab1_Bai2.dll
