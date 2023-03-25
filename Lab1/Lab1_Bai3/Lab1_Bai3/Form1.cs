@@ -60,7 +60,7 @@
 
                 if (number > 9 && number < 100 && number % 10 == 0 && number != 10)
                 {
-                    text += (number / 10).ToString() + " Mươi ";
+                    text += NumTrans(number / 10) + " Mươi ";
                 }
                 else if (number > 19 && number < 100 && number % 10 != 0 && number % 5 != 0)
                     text += NumTrans(number / 10) + " Mươi " + NumTrans(number % 10);
