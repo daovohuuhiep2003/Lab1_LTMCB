@@ -15,3 +15,20 @@ E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Menu\Menu\obj\Debug\net6.0-win
 E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.pdb
 E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.genruntimeconfig.cache
 E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Menu\Menu\obj\Debug\net6.0-windows\ref\Menu.dll
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\bin\Debug\net6.0-windows\Menu.exe
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\bin\Debug\net6.0-windows\Menu.deps.json
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\bin\Debug\net6.0-windows\Menu.runtimeconfig.json
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\bin\Debug\net6.0-windows\Menu.dll
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\bin\Debug\net6.0-windows\Menu.pdb
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.AssemblyReference.cache
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form1.resources
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.GenerateResource.cache
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.GeneratedMSBuildEditorConfig.editorconfig
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfoInputs.cache
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfo.cs
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.CoreCompileInputs.cache
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.dll
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\refint\Menu.dll
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.pdb
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\Menu.genruntimeconfig.cache
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Menu\Menu\obj\Debug\net6.0-windows\ref\Menu.dll

@@ -29,7 +29,7 @@
             else if (number == 15)
                 return "Mười Lăm";
             else if (number >= 10 && number < 20)
-                return "Mười " + VNNum[number % 10];
+                return "Mười" + VNNum[number % 10];
             else
             {
                 string text = "";

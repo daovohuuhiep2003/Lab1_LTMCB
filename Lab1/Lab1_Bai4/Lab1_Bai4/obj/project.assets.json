@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\HocKi4\\Lập trình mạng căn bản\\Lab\\Lab1\\Lab1_Bai4\\Lab1_Bai4\\Lab1_Bai4.csproj",
+      "projectUniqueName": "E:\\HocKi4\\Lập_trình_mạng_căn_bản\\Lab_LTMCB\\Lab1\\Lab1_Bai4\\Lab1_Bai4\\Lab1_Bai4.csproj",
       "projectName": "Lab1_Bai4",
-      "projectPath": "E:\\HocKi4\\Lập trình mạng căn bản\\Lab\\Lab1\\Lab1_Bai4\\Lab1_Bai4\\Lab1_Bai4.csproj",
+      "projectPath": "E:\\HocKi4\\Lập_trình_mạng_căn_bản\\Lab_LTMCB\\Lab1\\Lab1_Bai4\\Lab1_Bai4\\Lab1_Bai4.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "E:\\HocKi4\\Lập trình mạng căn bản\\Lab\\Lab1\\Lab1_Bai4\\Lab1_Bai4\\obj\\",
+      "outputPath": "E:\\HocKi4\\Lập_trình_mạng_căn_bản\\Lab_LTMCB\\Lab1\\Lab1_Bai4\\Lab1_Bai4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

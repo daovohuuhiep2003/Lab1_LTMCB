@@ -13,7 +13,7 @@ namespace Menu
         {
             try
             {
-                string path = @"E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Lab1-Bai1\Lab1-Bai1\bin\Debug\net6.0-windows\Lab1_Bai1.exe";
+                string path = @"E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Lab1-Bai1\Lab1-Bai1\bin\Debug\net6.0-windows\Lab1_Bai1.exe";
                 Process.Start(path);
             }
             catch (Exception ex)
@@ -26,7 +26,7 @@ namespace Menu
         {
             try
             {
-                string path = @"E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Lab1_Bai2\Lab1_Bai2\bin\Debug\net6.0-windows\Lab1_Bai2.exe";
+                string path = @"E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Lab1_Bai2\Lab1_Bai2\bin\Debug\net6.0-windows\Lab1_Bai2.exe";
                 Process.Start(path);
             }
             catch (Exception ex)
@@ -39,7 +39,7 @@ namespace Menu
         {
             try
             {
-                string path = @"E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Lab1_Bai3\Lab1_Bai3\bin\Debug\net6.0-windows\Lab1_Bai3.exe";
+                string path = @"E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Lab1_Bai3\Lab1_Bai3\bin\Debug\net6.0-windows\Lab1_Bai3.exe";
                 Process.Start(path);
             }
             catch (Exception ex)
@@ -52,7 +52,7 @@ namespace Menu
         {
             try
             {
-                string path = @"E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Lab1_Bai4\Lab1_Bai4\bin\Debug\net6.0-windows\Lab1_Bai4.exe";
+                string path = @"E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Lab1_Bai4\Lab1_Bai4\bin\Debug\net6.0-windows\Lab1_Bai4.exe";
                 Process.Start(path);
             }
             catch (Exception ex)
@@ -65,7 +65,7 @@ namespace Menu
         {
             try
             {
-                string path = @"E:\HocKi4\Lập trình mạng căn bản\Lab\Lab1\Lab1_Bai5\Lab1_Bai5\bin\Debug\net6.0-windows\Lab1_Bai5.exe";
+                string path = @"E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab1\Lab1_Bai5\Lab1_Bai5\bin\Debug\net6.0-windows\Lab1_Bai5.exe";
                 Process.Start(path);
             }
             catch (Exception ex)
