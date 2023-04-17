@@ -16,5 +16,30 @@ namespace Lab2
         {
             InitializeComponent();
         }
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                DirectoryInfo di = new DirectoryInfo("C:\\Users\\ADMIN\\Downloads");
+                FileInfo[] fiArr = di.GetFiles();
+                foreach (FileInfo fileInfo in fiArr)
+                {
+                    ListViewItem item = new ListViewItem(fileInfo.Name);
+                    item.SubItems.Add(fileInfo.Length.ToString());
+                    item.SubItems.Add(fileInfo.Extension);
+                    item.SubItems.Add(fileInfo.CreationTime.ToString());
+                    listView1.Items.Add(item);
+                }
+            }
+            catch
+            {
+                string message = "Error!";
+                string title = "Warning";
+                MessageBox.Show(message, title);
+            }
+
+        }
     }
 }

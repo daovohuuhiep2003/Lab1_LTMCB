@@ -19,23 +19,35 @@ namespace Lab2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            OpenFileDialog ofd = new OpenFileDialog();
-            ofd.ShowDialog();
-            FileStream fs = new FileStream(ofd.FileName , FileMode.OpenOrCreate);
-            StreamReader sr = new StreamReader(fs);
-            string content = sr.ReadToEnd(); 
-            richTextBox1.Text = content;
-            textBox1.Text = ofd.SafeFileName.ToString();
-            textBox2.Text = fs.Name.ToString();
-            content = content.Replace("\r\n", "\r");
-            int a;
-            a = richTextBox1.Lines.Count();
-            textBox3.Text = a.ToString();
-            content = content.Replace('\r', ' ');
-            string[] source = content.Split(new char[] { '!', '?', '!', ' ', ';', ':', ',' }, StringSplitOptions.RemoveEmptyEntries);
-            textBox4.Text = source.Count().ToString();
-            textBox5.Text = content.Length.ToString();
-            fs.Close();
+            try
+            {
+                OpenFileDialog ofd = new OpenFileDialog();
+                ofd.ShowDialog();
+                FileStream fs = new FileStream(ofd.FileName, FileMode.OpenOrCreate);
+                StreamReader sr = new StreamReader(fs);
+                string content = sr.ReadToEnd();
+                richTextBox1.Text = content;
+                textBox1.Text = ofd.SafeFileName.ToString();
+                textBox2.Text = fs.Name.ToString();
+                content = content.Replace("\r\n", "\r");
+                content = content.Replace("\r\n", "\r");
+                int a;
+                a = richTextBox1.Lines.Count();
+                textBox3.Text = a.ToString();
+                content = content.Replace('\r', ' ');
+                string[] source = content.Split(new char[] { '!', '?', '!', ' ', ';', ':', ',' }, StringSplitOptions.RemoveEmptyEntries);
+                textBox4.Text = source.Count().ToString();
+                textBox5.Text = content.Length.ToString();
+                fs.Close();
+            }
+            catch
+            {
+                string message = "Error!";
+                string title = "Warning";
+                MessageBox.Show(message, title);
+            }
+
+
         }
     }
 }

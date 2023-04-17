@@ -86,8 +86,8 @@ namespace Lab2
             try
             {
                 if (string.IsNullOrEmpty(textBox1.Text) || string.IsNullOrEmpty(textBox2.Text)
-                    || string.IsNullOrEmpty(textBox3.Text) || (float.Parse(textBox4.Text) > 10 && float.Parse(textBox4.Text) < 0)
-                                                                || (float.Parse(textBox5.Text) > 10 && float.Parse(textBox5.Text) < 0))
+                    || string.IsNullOrEmpty(textBox3.Text) || (float.Parse(textBox4.Text) > 10 || float.Parse(textBox4.Text) < 0)
+                                                                || (float.Parse(textBox5.Text) > 10 || float.Parse(textBox5.Text) < 0))
                 {
                     throw new ArgumentException("Invalid input");
                 }
