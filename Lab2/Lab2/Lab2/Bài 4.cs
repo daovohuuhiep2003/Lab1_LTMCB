@@ -184,7 +184,7 @@ namespace Lab2
                     }
                 }
 
-                
+
             }
             catch
             {

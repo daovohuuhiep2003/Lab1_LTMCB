@@ -103,7 +103,7 @@
             Controls.Add(button1);
             Controls.Add(label1);
             Name = "Form4";
-            Text = "Form4";
+            Text = "Bài 3";
             ResumeLayout(false);
             PerformLayout();
         }

@@ -4,7 +4,6 @@ E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\bin\Debug\net6
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.AssemblyReference.cache
-E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form2.resources
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
@@ -20,3 +19,4 @@ E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form4.resources
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form5.resources
 E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form6.resources
+E:\HocKi4\Lập_trình_mạng_căn_bản\Lab_LTMCB\Lab2\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Meny.resources

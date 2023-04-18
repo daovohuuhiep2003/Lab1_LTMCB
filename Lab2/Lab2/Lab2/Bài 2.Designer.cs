@@ -171,7 +171,7 @@
             Controls.Add(label1);
             Controls.Add(button1);
             Name = "Form3";
-            Text = "Form3";
+            Text = "Bài 2";
             ResumeLayout(false);
             PerformLayout();
         }

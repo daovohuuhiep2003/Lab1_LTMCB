@@ -33,7 +33,7 @@ namespace Lab2
                 var result = new DataTable().Compute(content, null);
                 richTextBox2.Text = content + "=" + result.ToString();
             }
-            catch 
+            catch
             {
                 string message = "Error!";
                 string title = "Warning";

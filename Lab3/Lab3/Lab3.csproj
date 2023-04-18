@@ -8,12 +8,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Menucs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="Menucs" />
-  </ItemGroup>
-
 </Project>

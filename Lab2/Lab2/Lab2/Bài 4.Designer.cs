@@ -61,7 +61,7 @@
             groupBox1.Controls.Add(label2);
             groupBox1.Controls.Add(textBox1);
             groupBox1.Controls.Add(label1);
-            groupBox1.Location = new Point(12, 12);
+            groupBox1.Location = new Point(41, 12);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(643, 187);
             groupBox1.TabIndex = 0;
@@ -168,7 +168,7 @@
             // button1
             // 
             button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(12, 215);
+            button1.Location = new Point(41, 215);
             button1.Name = "button1";
             button1.Size = new Size(223, 51);
             button1.TabIndex = 1;
@@ -178,7 +178,7 @@
             // 
             // richTextBox1
             // 
-            richTextBox1.Location = new Point(12, 272);
+            richTextBox1.Location = new Point(41, 272);
             richTextBox1.Name = "richTextBox1";
             richTextBox1.Size = new Size(643, 156);
             richTextBox1.TabIndex = 2;
@@ -187,7 +187,7 @@
             // button2
             // 
             button2.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            button2.Location = new Point(314, 215);
+            button2.Location = new Point(343, 215);
             button2.Name = "button2";
             button2.Size = new Size(267, 51);
             button2.TabIndex = 3;
@@ -205,7 +205,7 @@
             Controls.Add(button1);
             Controls.Add(groupBox1);
             Name = "Form5";
-            Text = "Form5";
+            Text = "Bài 4";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ResumeLayout(false);
